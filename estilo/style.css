@@ -188,14 +188,14 @@ img{
   }
 .gototop{
     position: fixed;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     background: rgba(0,0,0,.15);
-    bottom: 20px; color: white;
-    right: 50px; text-align: center; line-height: 50px;
-    text-decoration: none; font-size: 22px;
+    bottom: 5px; color: white;
+    right: 20px; text-align: center; line-height: 40px;
+    text-decoration: none; font-size: 15px;
     cursor: pointer; display: block;
-    z-index: 9; border-radius: 50%;
+    z-index: 9; border-radius: 60%;
 }
 
 /* design */
