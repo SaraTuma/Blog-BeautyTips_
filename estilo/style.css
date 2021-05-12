@@ -35,7 +35,7 @@ img{
 .header{
     min-height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), 
-    url(../images/slide1.jpg) center/cover no-repeat fixed;
+    url(../images/post4.jpg) center/cover no-repeat fixed;
     display: flex;
     flex-direction: column;
     justify-content: stretch;
@@ -129,7 +129,7 @@ img{
 .banner-title span{
     font-family: var(--Playfair);
     /*color: var(--exDark);*/
-    color:rgb(138, 44, 110);
+    color:rgb(97, 29, 76);
 }
 .banner p{
     padding: 1rem 0 2rem 0;
